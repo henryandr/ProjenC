@@ -1,0 +1,1 @@
+int Primo(int numero);
